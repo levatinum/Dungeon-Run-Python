@@ -1,0 +1,57 @@
+{
+	"defaultAttributes": {
+		"name": "Minotaur",
+		"type": "Beast",
+		"tag": "Horned",
+		"armament": "armed",
+		"rankVal": "undefined",
+		"description": "Bullman",
+		"inspection": "horny",
+		"monVal": "5",
+		"primLoot": "minotaur",
+		"secLoot": "man"
+		}
+	"equipment": {
+		"head": "mt",
+		"chest": "mt",
+		"arms": "mt",
+		"waist": "mt",
+		"legs": "minotaurLoincloth",
+		"feet": "mt",
+		"hands": "mt",
+		"RWeapon": "minotaurAxe",
+		"LWeapon": "mt",
+		}
+	"attacks": {
+		"first": {
+			"name": "Punch",
+			"description": "lorem ipsum",
+			"hitcount": "lorem ipsum",
+			"dam": "lorem ipsum",
+			"accuracy": "lorem ipsum",
+			"conditions": "lorem ipsum",
+			"effects": "lorem ipsum",
+			"effectChance": "lorem ipsum",
+			}
+		"second": {
+			"name": "Axe Swing",
+			"description": "lorem ipsum",
+			"hitcount": "lorem ipsum",
+			"dam": "lorem ipsum",
+			"accuracy": "lorem ipsum",
+			"conditions": "lorem ipsum",
+			"effects": "lorem ipsum",
+			"effectChance": "lorem ipsum",
+			}
+		"third": {
+			"name": "Charge",
+			"description": "lorem ipsum",
+			"hitcount": "lorem ipsum",
+			"dam": "lorem ipsum",
+			"accuracy": "lorem ipsum",
+			"conditions": "lorem ipsum",
+			"effects": "lorem ipsum",
+			"effectChance": "lorem ipsum",
+			}
+	}
+}

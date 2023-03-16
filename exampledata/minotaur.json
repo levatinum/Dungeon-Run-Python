@@ -1,0 +1,12 @@
+{
+"name": "Minotaur",
+"type": "Beast",
+"tag": "Horned",
+"armament": "Unarmed",
+"rankVal": "undefined",
+"description": "The Minotaur is a large man with a bull's head.",
+"inspection": "It seems as though its horns could be removed with sufficient force."
+"monval": "5",
+"primloot": "minotaur"
+"secloot": "man"
+}

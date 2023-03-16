@@ -1,0 +1,22 @@
+{
+	"firstattack": {
+		"name": "axecut",
+		"description": "The Minotaur uses its axe to slash downwards at you.",
+		"hitcount": "1",
+		"dam": "5",
+		"accuracy": "100",
+		"conditions": "hasAxe",
+		"effects": "bleedTarget",
+		"effectChance": "15",
+		}
+	"secondattack": {
+		"name": "charge",
+		"description": "The Minotaur lowers its head to charge towards you, goring you with its horns.",
+		"hitcount": "1",
+		"dam": "15",
+		"accuracy": "75",
+		"conditions": "hasHorn",
+		"effects": "stunSelf",
+		"effectChance": "50",
+		}
+}
