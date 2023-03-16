@@ -1,0 +1,12 @@
+{
+   "name": "Minotaur",
+   "type": "Beast",
+   "tag": "Horned",
+   "armament": "armed",
+   "rankVal": "undefined",
+   "description": "Bullman",
+   "inspection": "horny",
+   "monVal": "5",
+   "primLoot": "minotaur",
+   "secLoot": "man"
+}
